@@ -49,8 +49,8 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ## 👤 Autor
 
-**Javier  JEB$DEV**  
-- GitHub: [@tu-usuario](https://github.com/JEB76-22) <!-- Reemplaza con tu usuario real -->
+**Javier Berchtold  (JEB$DEV)**  
+- GitHub: (https://github.com/JEB76-22) <!-- Reemplaza con tu usuario real -->
 - Email: j.e.b.inter@gmail.com <!-- Reemplaza con tu email -->
 
 ---
