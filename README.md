@@ -6,7 +6,7 @@ Un prototipo interactivo de sitio web para seguros, diseñado para demostrar fun
 
 ## 🚀 Demo en Vivo
 
-Puedes ver una demo en vivo del proyecto aquí: [Demo en Vivo](https://tu-usuario.github.io/seguro-prototypes/) <!-- Reemplaza con el enlace real de GitHub Pages si lo tienes configurado -->
+Puedes ver una demo en vivo del proyecto aquí: [Demo en Vivo](https://seguros-green.vercel.app/) <!-- Reemplaza con el enlace real de GitHub Pages si lo tienes configurado -->
 
 ## 📸 Capturas de Pantalla
 
@@ -49,9 +49,9 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ## 👤 Autor
 
-**Javier**  
-- GitHub: [@tu-usuario](https://github.com/tu-usuario) <!-- Reemplaza con tu usuario real -->
-- Email: tu-email@example.com <!-- Reemplaza con tu email -->
+**Javier  JEB$DEV**  
+- GitHub: [@tu-usuario](https://github.com/JEB76-22) <!-- Reemplaza con tu usuario real -->
+- Email: j.e.b.inter@gmail.com <!-- Reemplaza con tu email -->
 
 ---
 
