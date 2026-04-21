@@ -11,7 +11,7 @@ body {
 }
 .error {
     background-color: #FBE9E7;
-    border: 1px solid rgb(248, 235, 235);
+    border: 1px solid rgb(11, 11, 11);
     padding: 10px;
     margin-bottom: 20px;
     text-align: center;
@@ -19,7 +19,7 @@ body {
 }
 .correcto {
     background-color: rgb(211, 249, 187);
-    border: 1px solid rgb(1, 254, 1);
+    border: 1px solid rgb(12, 17, 12);
     padding: 10px;
     margin-bottom: 20px;
     text-align: center;
